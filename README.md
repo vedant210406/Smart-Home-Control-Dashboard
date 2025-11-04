@@ -1,2 +1,11 @@
-# Smart-Home-Control-Dashboard
-Objective: Design an intuitive dashboard for managing smart home devices (lights, thermostats, security).  Focus: Accessibility, responsive design, and real-time status updates.
+
+  # Smart Home Control Dashboard
+
+  This is a code bundle for Smart Home Control Dashboard. The original project is available at https://www.figma.com/design/8wrFybOOSlCC5PgSanMlSX/Smart-Home-Control-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
